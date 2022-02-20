@@ -1,0 +1,1 @@
+{"uuid":"aa399bcd-7c10-42b1-bc39-6a80a3a7debf","name":"com.nopcommerce.tests.LoginPageTest","children":["f2800f19-8afb-40ec-b237-e91339053d5c"],"befores":[{"name":"loginPageSetUp","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1644997130342,"stop":1644997130342}],"afters":[],"start":1644997129456,"stop":1644997130801}
